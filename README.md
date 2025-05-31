@@ -1,5 +1,9 @@
 # 🛩️ Foam Glider Design 
 
+<p align="center">
+  <img src="AircraftModelTopView.png" alt="HappyCam Product Photo" width="850"/>
+</p>
+
 ## ✨ Overview
 This was a milestone project for **ASEN 2804: Aircraft Performance and Dynamics**, where the goal was to design, fabricate, and test a **foam glider** capable of traveling the farthest distance when launched by hand. The design process included theoretical sizing of key parameters such as wingspan, tail volume, fuselage length, and incidence angle.
 
